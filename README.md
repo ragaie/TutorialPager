@@ -1,5 +1,10 @@
 # TutorialPager
 
+This component for ios development written in swift.
+for simple images show like guide for start app.
+just give it images or view controller to show them in scroll view horizontly.
+with simple use and full controll on component thet you can access every part of it and fully customize it.
+
 
 
 # MIT License
