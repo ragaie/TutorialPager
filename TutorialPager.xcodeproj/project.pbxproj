@@ -11,6 +11,7 @@
 		813806E621EF64CA00B88B98 /* Screen Recording-pager.mov in Resources */ = {isa = PBXBuildFile; fileRef = 813806E521EF64CA00B88B98 /* Screen Recording-pager.mov */; };
 		813806EA21EF64FC00B88B98 /* screenShot2.png in Resources */ = {isa = PBXBuildFile; fileRef = 813806E721EF64FC00B88B98 /* screenShot2.png */; };
 		813806EC21EF64FC00B88B98 /* screenShot1.png in Resources */ = {isa = PBXBuildFile; fileRef = 813806E921EF64FC00B88B98 /* screenShot1.png */; };
+		813806EE21EF81A900B88B98 /* TutorialPager.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 813806ED21EF81A900B88B98 /* TutorialPager.podspec */; };
 		814BF7D921DCCE2F0003AD2C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 814BF7D821DCCE2F0003AD2C /* AppDelegate.swift */; };
 		814BF7DB21DCCE2F0003AD2C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 814BF7DA21DCCE2F0003AD2C /* ViewController.swift */; };
 		814BF7DE21DCCE2F0003AD2C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 814BF7DC21DCCE2F0003AD2C /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 		813806E521EF64CA00B88B98 /* Screen Recording-pager.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "Screen Recording-pager.mov"; sourceTree = "<group>"; };
 		813806E721EF64FC00B88B98 /* screenShot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenShot2.png; sourceTree = "<group>"; };
 		813806E921EF64FC00B88B98 /* screenShot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenShot1.png; sourceTree = "<group>"; };
+		813806ED21EF81A900B88B98 /* TutorialPager.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TutorialPager.podspec; sourceTree = "<group>"; };
 		814BF7D521DCCE2F0003AD2C /* TutorialPager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TutorialPager.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		814BF7D821DCCE2F0003AD2C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		814BF7DA21DCCE2F0003AD2C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 		814BF7CC21DCCE2F0003AD2C = {
 			isa = PBXGroup;
 			children = (
+				813806ED21EF81A900B88B98 /* TutorialPager.podspec */,
 				814BF7D721DCCE2F0003AD2C /* TutorialPager */,
 				814BF7D621DCCE2F0003AD2C /* Products */,
 			);
@@ -204,6 +207,7 @@
 			files = (
 				814BF7E321DCCE300003AD2C /* LaunchScreen.storyboard in Resources */,
 				8194C1A421ECD0FF00A789CA /* FirstViewController.xib in Resources */,
+				813806EE21EF81A900B88B98 /* TutorialPager.podspec in Resources */,
 				8194C19C21ECB15F00A789CA /* image2.jpg in Resources */,
 				8194C19F21ECB15F00A789CA /* image4.jpg in Resources */,
 				8194C1A821ECD11200A789CA /* SecandViewController.xib in Resources */,
