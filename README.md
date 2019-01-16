@@ -1,21 +1,28 @@
 ## TutorialPager
 
 This component for ios development written in swift.
+
 for simple images show like guide for start app.
+
 just give it images or view controller to show them in scroll view horizontly.
+
 with simple use and full controll on component thet you can access every part of it and fully customize it.
+
 ## How to start use it :-
 1- drag drop view component in your storyboard
+
 2- change class to 
 ```
   TutorialView
 ```
 3- create outlet from it to your viewcontroller.
+
 4- start to add data source for pager tutorial.
 
 
 ## How it works :- 
 Component formed from two native ios ui component 
+
 1- collection view that you have fully modify design ass you wish.
 named
 ```
@@ -28,9 +35,13 @@ tutorialPageControl
 ```
 
 3- set data source for tutorial and you have two option 
+
     -array of [UIImageView] --> .dataSourceView = [uiimage view array]
+    
     -array of [UIViewController] ---> .dataSourceViewViewController = [viewController array]
+    
     - if you set array of images it will not take look for viewController.
+    
 4- set delegate if you want to recive action when happen 
 ``` //both of two func are optional
 //call it when index display in screen
@@ -40,10 +51,15 @@ tutorialPageControl
     
 ```
 ## what is available in it :-
+
 1- by default it is not scroll automatic, you ca change it 
+
 2- you can change scroll period time.
+
 3- you can move page controll up and down in screen, or even hide it.
+
 4- you can change size of page controll of color of select or select page color.
+
 4- you can modify cell background in all component.
 
 ## you should get result like that:- 
