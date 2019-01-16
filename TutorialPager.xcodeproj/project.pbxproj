@@ -99,7 +99,7 @@
 				813806E421EF64A800B88B98 /* screen shot and photos */,
 				8194C1A921ECD11900A789CA /* viewController */,
 				8194C1A021ECB24400A789CA /* images */,
-				8194C19121EC983600A789CA /* view tutorial */,
+				8194C19121EC983600A789CA /* viewTutorial */,
 				814BF7D821DCCE2F0003AD2C /* AppDelegate.swift */,
 				814BF7DA21DCCE2F0003AD2C /* ViewController.swift */,
 				814BF7DC21DCCE2F0003AD2C /* Main.storyboard */,
@@ -110,14 +110,14 @@
 			path = TutorialPager;
 			sourceTree = "<group>";
 		};
-		8194C19121EC983600A789CA /* view tutorial */ = {
+		8194C19121EC983600A789CA /* viewTutorial */ = {
 			isa = PBXGroup;
 			children = (
 				8194C19221EC986800A789CA /* TutorialView.swift */,
 				8194C19421EC9E0000A789CA /* TutorialView.xib */,
 				813806E221EF645D00B88B98 /* TutorialViewDelegate.swift */,
 			);
-			path = "view tutorial";
+			path = viewTutorial;
 			sourceTree = "<group>";
 		};
 		8194C1A021ECB24400A789CA /* images */ = {

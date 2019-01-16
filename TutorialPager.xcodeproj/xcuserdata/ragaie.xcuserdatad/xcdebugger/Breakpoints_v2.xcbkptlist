@@ -42,11 +42,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TutorialPager/view tutorial/TutorialView.swift"
-            timestampString = "569336844.526875"
+            timestampString = "569338073.17234"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "178"
-            endingLineNumber = "178"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
             landmarkName = "TutorialView"
             landmarkType = "3">
          </BreakpointContent>

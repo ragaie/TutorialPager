@@ -17,6 +17,7 @@ class ViewController: UIViewController ,TutorialViewDelegate{
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         customData.dataSourceView = [UIImageView.init(image: UIImage.init(named: "image4.jpg")),UIImageView.init(image:UIImage.init(named: "image3.jpg")),UIImageView.init(image:UIImage.init(named: "image2.jpg")),UIImageView.init(image:UIImage.init(named: "image1.jpg"))]
+        customData.tutorialPageControl.isHidden = true
         
        
        // customData.dataSourceViewViewController = [FirstViewController(),SecandViewController()]
