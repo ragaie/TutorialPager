@@ -13,9 +13,8 @@ with simple use and full controll on component thet you can access every part of
 
 ## Author
 
-* **Ragaie alfy Fahmey**  - [ragaie alfy](https://github.com/ragaie)
-## You can find me in linked in 
-- [Ragaie alfy](www.linkedin.com/in/ragaie-alfy)
+* **Ragaie alfy Fahmey**  - [LinkedIn](www.linkedin.com/in/ragaie-alfy)
+
 
 # MIT License
 
