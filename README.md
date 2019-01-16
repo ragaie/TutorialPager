@@ -5,7 +5,7 @@ for simple images show like guide for start app.
 just give it images or view controller to show them in scroll view horizontly.
 with simple use and full controll on component thet you can access every part of it and fully customize it.
 
-## you should get like this result 
+## you should get result like that:- 
 
 ![Screenshot](https://github.com/ragaie/TutorialPager/blob/master/TutorialPager/screen%20shot%20and%20photos/screenShot2.png) | ![Screenshot](https://github.com/ragaie/TutorialPager/blob/master/TutorialPager/screen%20shot%20and%20photos/screenShot1.png)
 
