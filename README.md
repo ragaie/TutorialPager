@@ -1,13 +1,10 @@
 ## TutorialPager
 
  
-This component for ios development written in swift.
-
-for simple images show like guide for start app.
-
-just give it images or view controller to show them in scroll view horizontly.
-
-with simple use and full controll on component thet you can access every part of it and fully customize it.
+This component for ios development written in swift.<br />
+for simple images show like guide for start app.<br />
+just give it images or view controller to show them in scroll view horizontly.<br />
+with simple use and full controll on component thet you can access every part of it and fully customize it.<br />
 ## First thing you need to add component to your project by two way:- 
 1- by intall cocoaPod 
  Add blow for your pod file 
@@ -19,33 +16,29 @@ with simple use and full controll on component thet you can access every part of
    
    run pod update , or pod install
    ```
- 2- secand way 
- 
+ 2- secand way <br />
  copy files to your project directory.
  
      TutorialView.swift,  TutorialView.xib,  TutorialViewDelegate.swift
  
 ## How to start use it :-
-1- drag drop view component in your storyboard
-
-2- change class to 
+1- drag drop view component in your storyboard<br />
+2- change class to <br />
 ```
   TutorialView
 ```
-3- create outlet from it to your viewcontroller.
-
-4- start to add data source for pager tutorial.
+3- create outlet from it to your viewcontroller.<br />
+4- start to add data source for pager tutorial.<br />
 
 
 ## How it works :- 
-Component formed from two native ios ui component 
-
-1- collection view that you have fully modify design ass you wish.
+Component formed from two native ios ui component <br />
+1- collection view that you have fully modify design ass you wish.<br />
 named
 ```
   tutorialCollectionView
 ```
-2- page controll you also have full customize all parameter that available already in it.
+2- page controll you also have full customize all parameter that available already in it.<br />
 named
 ```
 tutorialPageControl
@@ -69,19 +62,15 @@ tutorialPageControl
 ```
 ## what is available in it :-
 
-1- by default it is not scroll automatic, you ca change it 
-
-2- you can change scroll period time.
-
-3- you can move page controll up and down in screen, or even hide it.
-
-4- you can change size of page controll of color of select or select page color.
-
-4- you can modify cell background in all component.
+1- by default it is not scroll automatic, you ca change it <br />
+2- you can change scroll period time.<br />
+3- you can move page controll up and down in screen, or even hide it.<br />
+4- you can change size of page controll of color of select or select page color.<br />
+4- you can modify cell background in all component.<br />
 
 ## you should get result like that:- 
 
-![Screenshot](https://github.com/ragaie/TutorialPager/blob/master/TutorialPager/screen%20shot%20and%20photos/screenShot2.png) | ![Screenshot](https://github.com/ragaie/TutorialPager/blob/master/TutorialPager/screen%20shot%20and%20photos/screenShot1.png)
+|![Screenshot](https://github.com/ragaie/TutorialPager/blob/master/TutorialPager/screen%20shot%20and%20photos/screenShot2.png) | ![Screenshot](https://github.com/ragaie/TutorialPager/blob/master/TutorialPager/screen%20shot%20and%20photos/screenShot1.png)|
 
 
 ## Author
