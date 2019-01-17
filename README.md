@@ -1,5 +1,6 @@
 ## TutorialPager
 
+ 
 This component for ios development written in swift.
 
 for simple images show like guide for start app.
@@ -7,7 +8,23 @@ for simple images show like guide for start app.
 just give it images or view controller to show them in scroll view horizontly.
 
 with simple use and full controll on component thet you can access every part of it and fully customize it.
-
+## First thing you need to add component to your project by two way:- 
+1- by intall cocoaPod 
+ Add blow for your pod file 
+   ```
+   cd to your project folder 
+   pod init
+   
+   add to pod file  --> pod 'TutorialPager' 
+   
+   run pod update , or pod install
+   ```
+ 2- secand way 
+ 
+ copy files to your project directory.
+ 
+     TutorialView.swift,  TutorialView.xib,  TutorialViewDelegate.swift
+ 
 ## How to start use it :-
 1- drag drop view component in your storyboard
 
@@ -70,6 +87,14 @@ tutorialPageControl
 ## Author
 
 * **Ragaie alfy Fahmey**  - [LinkedIn](www.linkedin.com/in/ragaie-alfy)
+
+## Publish
+
+ 🎉  Congrats
+ 🚀  TutorialPager (0.0.2) successfully published
+ 📅  January 17th, 11:28
+ 🌎  https://cocoapods.org/pods/TutorialPager
+ 👍  Tell your friends!
 
 
 # MIT License
