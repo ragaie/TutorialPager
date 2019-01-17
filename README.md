@@ -70,7 +70,7 @@ tutorialPageControl
 
 ## you should get result like that:- 
 | --- | --- |
-| ![Screenshot](https://github.com/ragaie/TutorialPager/blob/master/TutorialPager/screen%20shot%20and%20photos/screenShot2.png) |  ![Screenshot](https://github.com/ragaie/TutorialPager/blob/master/TutorialPager/screen%20shot%20and%20photos/screenShot1.png) |
+|![Screenshot](https://github.com/ragaie/TutorialPager/blob/master/TutorialPager/screen%20shot%20and%20photos/screenShot2.png) |  ![Screenshot](https://github.com/ragaie/TutorialPager/blob/master/TutorialPager/screen%20shot%20and%20photos/screenShot1.png) |
 
 
 ## Author
