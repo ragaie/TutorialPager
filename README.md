@@ -3,7 +3,7 @@
  
 This component for ios development written in swift.<br />
 for simple images show like guide for start app.<br />
-just give it images or view controller to show them in scroll view horizontly.<br />
+just give it images or view controller to show them in scroll view horizontally.<br />
 with simple use and full control on component that you can access every part of it and fully customize it.<br />
 ## First thing you need to add component to your project by two way:- 
 1- by intall cocoaPod 
