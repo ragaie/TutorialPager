@@ -90,11 +90,11 @@ tutorialPageControl
 
 ## Publish
 
- 🎉  Congrats
- 🚀  TutorialPager (0.0.2) successfully published
- 📅  January 17th, 11:28
- 🌎  https://cocoapods.org/pods/TutorialPager
- 👍  Tell your friends!
+ 🎉  Congrats<br />
+ 🚀  TutorialPager (0.0.2) successfully published<br />
+ 📅  January 17th, 11:28<br />
+ 🌎  https://cocoapods.org/pods/TutorialPager<br />
+ 👍  Tell your friends!<br />
 
 
 # MIT License
